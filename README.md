@@ -66,8 +66,9 @@ accuracy
 ```  
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0412ef25-3fe5-42ae-b4c5-9d5d878bc408.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/9382c97e-0dd1-4ffc-9009-90ff0874bd9d.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/f1aaabf5-6d58-4b65-b012-ba606e9f5271.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/2eb80195-87d1-4d1f-a968-c3fa0951078a.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d63098f8-d75e-4d93-b437-c803a005fc4b.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0dfa3686-a47d-4613-8425-a20cc883e426.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="600">
