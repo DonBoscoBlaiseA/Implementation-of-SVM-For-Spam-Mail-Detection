@@ -66,11 +66,11 @@ accuracy
 ```  
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0412ef25-3fe5-42ae-b4c5-9d5d878bc408.png" width="600"> horizontal
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/9382c97e-0dd1-4ffc-9009-90ff0874bd9d.png" width="600"> horizontal
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0dfa3686-a47d-4613-8425-a20cc883e426.png" width="600"> horizontal
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="600"> horizontal
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="600"> horizontal
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0412ef25-3fe5-42ae-b4c5-9d5d878bc408.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/9382c97e-0dd1-4ffc-9009-90ff0874bd9d.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0dfa3686-a47d-4613-8425-a20cc883e426.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="600">
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
