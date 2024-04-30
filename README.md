@@ -66,12 +66,12 @@ accuracy
 ```  
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/70813c25-0b5f-4f34-b60e-e821cb7d3608.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/2eb80195-87d1-4d1f-a968-c3fa0951078a.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/b22420b2-12c5-40cb-9c6f-746c6b8765f7.png" width="500">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/e58588d5-749b-4ecf-b57d-872314cb55ed.png" width="500">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="800">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/70813c25-0b5f-4f34-b60e-e821cb7d3608.png" width="600">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/2eb80195-87d1-4d1f-a968-c3fa0951078a.png" width="600">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/b22420b2-12c5-40cb-9c6f-746c6b8765f7.png" width="500">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/e58588d5-749b-4ecf-b57d-872314cb55ed.png" width="600">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="800">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="600">  
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
