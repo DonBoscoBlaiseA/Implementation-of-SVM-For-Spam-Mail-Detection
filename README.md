@@ -23,46 +23,34 @@ RegisterNumber: 212221040045
 */
 ```
 ```
-import chardet
-file = 'spam.csv'
-with open(file,'rb') as rawdata:
-  result= chardet.detect(rawdata.read(100000))
-result
-
 import pandas as pd
-import matplotlib.pyplot as plt
-
-data = pd.read_csv('Spam.csv',encoding='latin-1')
-df = data.drop(['Unnamed: 2','Unnamed: 3','Unnamed: 4'],axis=1)
-
-df.head()
-
-df.info()
-
-df.isnull().sum()
-
-x=df["v1"].values
-y=df["v2"].values
-
+data=pd.read_csv('spam.csv',encoding='Windows-1252')
 from sklearn.model_selection import train_test_split
-x_train,x_test,y_train,y_test = train_test_split(x,y,test_size = 0.2,random_state=0)
-
+data
+data.shape
+x=data['v2'].values
+y=data['v1'].values
+x.shape
+y.shape
+x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.35,random_state=0)
+x_train
+x_train.shape
 from sklearn.feature_extraction.text import CountVectorizer
-cv = CountVectorizer()
-
+cv=CountVectorizer()
 x_train=cv.fit_transform(x_train)
-x_test = cv.transform(x_test)
-
+x_test=cv.transform(x_test)
 from sklearn.svm import SVC
-svc = SVC()
+svc=SVC()
 svc.fit(x_train,y_train)
-
-y_pred = svc.predict(x_test)
+y_pred=svc.predict(x_test)
 y_pred
-
-from sklearn import metrics
-accuracy = metrics.accuracy_score(y_test,y_pred)
-accuracy
+from sklearn.metrics import accuracy_score,confusion_matrix,classification_report 
+acc=accuracy_score(y_test,y_pred)
+acc
+con=confusion_matrix(y_test,y_pred)
+print(con)
+cl=classification_report(y_test,y_pred)
+print(cl)
 ```
 <br>
 <br>
@@ -71,27 +59,39 @@ accuracy
 <br>  
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/70813c25-0b5f-4f34-b60e-e821cb7d3608.png" width="700">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="700">  
 <br>
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/2eb80195-87d1-4d1f-a968-c3fa0951078a.png" width="400">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/10e5025a-a0dd-4e57-8108-733c7ebbcdaa.png" width="400">  
 <br>
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/b22420b2-12c5-40cb-9c6f-746c6b8765f7.png" width="500">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/b7082818-4faa-4ec0-bc3a-63e89246128a.png" width="500">  
 <br>
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/e58588d5-749b-4ecf-b57d-872314cb55ed.png" width="310">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/6c1b2631-c355-41dd-a8a4-4c3372237636.png" width="310">  
 <br>
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/ca11655f-4a93-432f-b214-bcaacce384b9.png" width="800">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/8d16cc79-4981-4f04-9d82-b3f7ec44b9ac.png" width="800">  
 <br>
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d4b4ec8a-d1d6-45d5-b605-10ed1b4b08db.png" width="310">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/c176868c-fb37-4107-8b80-da8567adc015.png" width="310">  
+<br>
+<br>  
+
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/6cf5747d-55df-4481-8de9-a07822c4eb5b.png" width="310">
+
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/bfc4e24a-0a78-491f-9af7-348bcde11188.png" width="310">
+
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/29bcfc1a-7b9e-4f73-8dd7-e32d869ada6f.png" width="310">
+
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d551c960-7a66-4738-a043-fe94b48fcf68.png" width="310">
+
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/7d85fd71-191a-4771-93b2-95e9c5a1d41e.png" width="310">
 <br>
 <br>
 <br>
