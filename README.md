@@ -60,14 +60,16 @@ print(cl)
 
 ## Output: 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="700">   
-<br>
 <br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/10e5025a-a0dd-4e57-8108-733c7ebbcdaa.png" width="120">  
+<br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/b7082818-4faa-4ec0-bc3a-63e89246128a.png" width="120">  
+<br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/6c1b2631-c355-41dd-a8a4-4c3372237636.png" width="120">  
+<br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/8d16cc79-4981-4f04-9d82-b3f7ec44b9ac.png">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/c176868c-fb37-4107-8b80-da8567adc015.png" width="310">
