@@ -54,7 +54,7 @@ print(cl)
 ```
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="700">   
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="400">   
 <br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/10e5025a-a0dd-4e57-8108-733c7ebbcdaa.png" width="120">  
