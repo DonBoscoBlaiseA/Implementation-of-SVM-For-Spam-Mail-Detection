@@ -52,11 +52,6 @@ print(con)
 cl=classification_report(y_test,y_pred)
 print(cl)
 ```
-<br>
-<br>
-<br>
-<br>
-<br>  
 
 ## Output: 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="700">   
@@ -83,10 +78,10 @@ print(cl)
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/bfc4e24a-0a78-491f-9af7-348bcde11188.png" width="600">
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/29bcfc1a-7b9e-4f73-8dd7-e32d869ada6f.png">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/29bcfc1a-7b9e-4f73-8dd7-e32d869ada6f.png" width="600">
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d551c960-7a66-4738-a043-fe94b48fcf68.png">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d551c960-7a66-4738-a043-fe94b48fcf68.png" width="600">
 <br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/7d85fd71-191a-4771-93b2-95e9c5a1d41e.png">
