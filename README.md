@@ -63,7 +63,12 @@ y_pred
 from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
-```  
+```
+<br>
+<br>
+<br>
+<br>
+<br>  
 
 ## Output: 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/70813c25-0b5f-4f34-b60e-e821cb7d3608.png" width="700">  
