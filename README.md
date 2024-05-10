@@ -21,8 +21,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: Don Bosco Blaise A
 RegisterNumber: 212221040045
 */
-```
-```
+
 import pandas as pd
 data=pd.read_csv('spam.csv',encoding='Windows-1252')
 from sklearn.model_selection import train_test_split
@@ -54,7 +53,7 @@ print(cl)
 ```
 
 ## Output: 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="530">   
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/0199a63b-138b-4c63-84b9-9d7ce4cbdbb8.png" width="550">   
 <br>  
 <br>  
 
