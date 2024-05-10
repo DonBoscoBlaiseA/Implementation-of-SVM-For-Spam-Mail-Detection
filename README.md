@@ -84,7 +84,7 @@ print(cl)
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d551c960-7a66-4738-a043-fe94b48fcf68.png" width="120">
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/7d85fd71-191a-4771-93b2-95e9c5a1d41e.png"  width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/7d85fd71-191a-4771-93b2-95e9c5a1d41e.png"  width="400">
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
