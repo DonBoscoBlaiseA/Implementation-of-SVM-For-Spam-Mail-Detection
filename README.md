@@ -72,11 +72,23 @@ print(cl)
 <br>  
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/8d16cc79-4981-4f04-9d82-b3f7ec44b9ac.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/c176868c-fb37-4107-8b80-da8567adc015.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/6cf5747d-55df-4481-8de9-a07822c4eb5b.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/bfc4e24a-0a78-491f-9af7-348bcde11188.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/29bcfc1a-7b9e-4f73-8dd7-e32d869ada6f.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/d551c960-7a66-4738-a043-fe94b48fcf68.png">
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-SVM-For-Spam-Mail-Detection/assets/140850829/7d85fd71-191a-4771-93b2-95e9c5a1d41e.png">
 
 ## Result:
